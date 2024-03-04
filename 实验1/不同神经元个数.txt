@@ -1,0 +1,614 @@
+model1
+
+
+
+Train Epoch: 1 Loss: 1.233564 accuracy: 0.588611
+Test Loss: 1.061644, Accuracy: 72.500000%
+Train Epoch: 2 Loss: 0.994580 accuracy: 0.727778
+Test Loss: 0.868205, Accuracy: 75.500000%
+Train Epoch: 3 Loss: 0.831972 accuracy: 0.782222
+Test Loss: 0.736080, Accuracy: 83.000000%
+Train Epoch: 4 Loss: 0.714321 accuracy: 0.841667
+Test Loss: 0.637835, Accuracy: 87.000000%
+Train Epoch: 5 Loss: 0.623933 accuracy: 0.878889
+Test Loss: 0.560236, Accuracy: 90.250000%
+Train Epoch: 6 Loss: 0.552146 accuracy: 0.896111
+Test Loss: 0.496848, Accuracy: 91.500000%
+Train Epoch: 7 Loss: 0.493991 accuracy: 0.901944
+Test Loss: 0.444597, Accuracy: 92.500000%
+Train Epoch: 8 Loss: 0.446496 accuracy: 0.907222
+Test Loss: 0.401732, Accuracy: 93.500000%
+Train Epoch: 9 Loss: 0.407773 accuracy: 0.910556
+Test Loss: 0.366722, Accuracy: 94.000000%
+Train Epoch: 10 Loss: 0.376332 accuracy: 0.913889
+Test Loss: 0.338234, Accuracy: 94.250000%
+Train Epoch: 11 Loss: 0.350871 accuracy: 0.915833
+Test Loss: 0.315050, Accuracy: 94.250000%
+Train Epoch: 12 Loss: 0.330257 accuracy: 0.916944
+Test Loss: 0.296182, Accuracy: 94.500000%
+Train Epoch: 13 Loss: 0.313567 accuracy: 0.919444
+Test Loss: 0.280845, Accuracy: 94.750000%
+Train Epoch: 14 Loss: 0.300009 accuracy: 0.920833
+Test Loss: 0.268238, Accuracy: 94.750000%
+Train Epoch: 15 Loss: 0.288932 accuracy: 0.920833
+Test Loss: 0.257770, Accuracy: 95.250000%
+Train Epoch: 16 Loss: 0.279803 accuracy: 0.921111
+Test Loss: 0.248992, Accuracy: 95.250000%
+Train Epoch: 17 Loss: 0.272185 accuracy: 0.921389
+Test Loss: 0.241556, Accuracy: 95.250000%
+Train Epoch: 18 Loss: 0.265757 accuracy: 0.921111
+Test Loss: 0.235220, Accuracy: 95.250000%
+Train Epoch: 19 Loss: 0.260294 accuracy: 0.921111
+Test Loss: 0.229826, Accuracy: 95.000000%
+Train Epoch: 20 Loss: 0.255597 accuracy: 0.921944
+Test Loss: 0.225195, Accuracy: 95.000000%
+Train Epoch: 21 Loss: 0.251495 accuracy: 0.921389
+Test Loss: 0.221172, Accuracy: 95.000000%
+Train Epoch: 22 Loss: 0.247897 accuracy: 0.920833
+Test Loss: 0.217648, Accuracy: 95.000000%
+Train Epoch: 23 Loss: 0.244739 accuracy: 0.920833
+Test Loss: 0.214578, Accuracy: 95.000000%
+Train Epoch: 24 Loss: 0.241971 accuracy: 0.922500
+Test Loss: 0.211859, Accuracy: 95.000000%
+Train Epoch: 25 Loss: 0.239546 accuracy: 0.922778
+Test Loss: 0.209411, Accuracy: 94.750000%
+Train Epoch: 26 Loss: 0.237424 accuracy: 0.922778
+Test Loss: 0.207212, Accuracy: 94.750000%
+Train Epoch: 27 Loss: 0.235545 accuracy: 0.923611
+Test Loss: 0.205254, Accuracy: 94.750000%
+Train Epoch: 28 Loss: 0.233878 accuracy: 0.924444
+Test Loss: 0.203483, Accuracy: 94.750000%
+Train Epoch: 29 Loss: 0.232389 accuracy: 0.924444
+Test Loss: 0.201893, Accuracy: 94.750000%
+Train Epoch: 30 Loss: 0.231047 accuracy: 0.923889
+Test Loss: 0.200448, Accuracy: 94.750000%
+Train Epoch: 31 Loss: 0.229831 accuracy: 0.923611
+Test Loss: 0.199143, Accuracy: 94.750000%
+Train Epoch: 32 Loss: 0.228727 accuracy: 0.923333
+Test Loss: 0.197958, Accuracy: 94.750000%
+Train Epoch: 33 Loss: 0.227712 accuracy: 0.923333
+Test Loss: 0.196869, Accuracy: 94.750000%
+Train Epoch: 34 Loss: 0.226778 accuracy: 0.923056
+Test Loss: 0.195868, Accuracy: 94.750000%
+Train Epoch: 35 Loss: 0.225920 accuracy: 0.923056
+Test Loss: 0.194943, Accuracy: 94.750000%
+Train Epoch: 36 Loss: 0.225132 accuracy: 0.923056
+Test Loss: 0.194093, Accuracy: 94.750000%
+Train Epoch: 37 Loss: 0.224402 accuracy: 0.923056
+Test Loss: 0.193313, Accuracy: 94.500000%
+Train Epoch: 38 Loss: 0.223723 accuracy: 0.923333
+Test Loss: 0.192583, Accuracy: 94.500000%
+Train Epoch: 39 Loss: 0.223090 accuracy: 0.923333
+Test Loss: 0.191880, Accuracy: 94.500000%
+Train Epoch: 40 Loss: 0.222500 accuracy: 0.924444
+Test Loss: 0.191219, Accuracy: 94.500000%
+Train Epoch: 41 Loss: 0.221946 accuracy: 0.924722
+Test Loss: 0.190598, Accuracy: 94.500000%
+Train Epoch: 42 Loss: 0.221427 accuracy: 0.924444
+Test Loss: 0.190019, Accuracy: 94.500000%
+Train Epoch: 43 Loss: 0.220936 accuracy: 0.924167
+Test Loss: 0.189473, Accuracy: 94.500000%
+Train Epoch: 44 Loss: 0.220472 accuracy: 0.924167
+Test Loss: 0.188951, Accuracy: 94.500000%
+Train Epoch: 45 Loss: 0.220038 accuracy: 0.924167
+Test Loss: 0.188457, Accuracy: 94.500000%
+Train Epoch: 46 Loss: 0.219628 accuracy: 0.924444
+Test Loss: 0.187992, Accuracy: 94.500000%
+Train Epoch: 47 Loss: 0.219242 accuracy: 0.924722
+Test Loss: 0.187556, Accuracy: 94.500000%
+Train Epoch: 48 Loss: 0.218876 accuracy: 0.925278
+Test Loss: 0.187143, Accuracy: 94.500000%
+Train Epoch: 49 Loss: 0.218528 accuracy: 0.925278
+Test Loss: 0.186731, Accuracy: 94.500000%
+Train Epoch: 50 Loss: 0.218197 accuracy: 0.925000
+Test Loss: 0.186337, Accuracy: 94.500000%
+Train Epoch: 51 Loss: 0.217883 accuracy: 0.925000
+Test Loss: 0.185970, Accuracy: 94.500000%
+Train Epoch: 52 Loss: 0.217587 accuracy: 0.925000
+Test Loss: 0.185621, Accuracy: 94.500000%
+Train Epoch: 53 Loss: 0.217307 accuracy: 0.925278
+Test Loss: 0.185288, Accuracy: 94.500000%
+Train Epoch: 54 Loss: 0.217042 accuracy: 0.925278
+Test Loss: 0.184967, Accuracy: 94.500000%
+Train Epoch: 55 Loss: 0.216791 accuracy: 0.925278
+Test Loss: 0.184644, Accuracy: 94.500000%
+Train Epoch: 56 Loss: 0.216551 accuracy: 0.925000
+Test Loss: 0.184341, Accuracy: 94.500000%
+Train Epoch: 57 Loss: 0.216323 accuracy: 0.925278
+Test Loss: 0.184057, Accuracy: 94.500000%
+Train Epoch: 58 Loss: 0.216107 accuracy: 0.925000
+Test Loss: 0.183781, Accuracy: 94.500000%
+Train Epoch: 59 Loss: 0.215901 accuracy: 0.925000
+Test Loss: 0.183509, Accuracy: 94.500000%
+Train Epoch: 60 Loss: 0.215703 accuracy: 0.925278
+Test Loss: 0.183253, Accuracy: 94.500000%
+Train Epoch: 61 Loss: 0.215518 accuracy: 0.925556
+Test Loss: 0.183001, Accuracy: 94.500000%
+Train Epoch: 62 Loss: 0.215341 accuracy: 0.925556
+Test Loss: 0.182757, Accuracy: 94.500000%
+Train Epoch: 63 Loss: 0.215172 accuracy: 0.925556
+Test Loss: 0.182529, Accuracy: 94.500000%
+Train Epoch: 64 Loss: 0.215009 accuracy: 0.925556
+Test Loss: 0.182310, Accuracy: 94.500000%
+Train Epoch: 65 Loss: 0.214854 accuracy: 0.925556
+Test Loss: 0.182093, Accuracy: 94.500000%
+Train Epoch: 66 Loss: 0.214706 accuracy: 0.925556
+Test Loss: 0.181884, Accuracy: 94.500000%
+Train Epoch: 67 Loss: 0.214564 accuracy: 0.925556
+Test Loss: 0.181680, Accuracy: 94.500000%
+Train Epoch: 68 Loss: 0.214427 accuracy: 0.925556
+Test Loss: 0.181480, Accuracy: 94.500000%
+Train Epoch: 69 Loss: 0.214295 accuracy: 0.925556
+Test Loss: 0.181287, Accuracy: 94.500000%
+Train Epoch: 70 Loss: 0.214170 accuracy: 0.925556
+Test Loss: 0.181096, Accuracy: 94.500000%
+Train Epoch: 71 Loss: 0.214047 accuracy: 0.925556
+Test Loss: 0.180911, Accuracy: 94.500000%
+Train Epoch: 72 Loss: 0.213929 accuracy: 0.925556
+Test Loss: 0.180734, Accuracy: 94.500000%
+Train Epoch: 73 Loss: 0.213816 accuracy: 0.925556
+Test Loss: 0.180556, Accuracy: 94.500000%
+Train Epoch: 74 Loss: 0.213707 accuracy: 0.925278
+Test Loss: 0.180366, Accuracy: 94.500000%
+Train Epoch: 75 Loss: 0.213599 accuracy: 0.925278
+Test Loss: 0.180190, Accuracy: 94.500000%
+Train Epoch: 76 Loss: 0.213496 accuracy: 0.925278
+Test Loss: 0.180016, Accuracy: 94.500000%
+Train Epoch: 77 Loss: 0.213393 accuracy: 0.925278
+Test Loss: 0.179850, Accuracy: 94.500000%
+Train Epoch: 78 Loss: 0.213291 accuracy: 0.925278
+Test Loss: 0.179691, Accuracy: 94.500000%
+Train Epoch: 79 Loss: 0.213193 accuracy: 0.925278
+Test Loss: 0.179540, Accuracy: 94.500000%
+Train Epoch: 80 Loss: 0.213093 accuracy: 0.925278
+Test Loss: 0.179397, Accuracy: 94.500000%
+Train Epoch: 81 Loss: 0.212995 accuracy: 0.925278
+Test Loss: 0.179246, Accuracy: 94.500000%
+Train Epoch: 82 Loss: 0.212897 accuracy: 0.925556
+Test Loss: 0.179119, Accuracy: 94.500000%
+Train Epoch: 83 Loss: 0.212799 accuracy: 0.925556
+Test Loss: 0.179003, Accuracy: 94.500000%
+Train Epoch: 84 Loss: 0.212702 accuracy: 0.925556
+Test Loss: 0.178879, Accuracy: 94.500000%
+Train Epoch: 85 Loss: 0.212611 accuracy: 0.925556
+Test Loss: 0.178768, Accuracy: 94.500000%
+Train Epoch: 86 Loss: 0.212526 accuracy: 0.925556
+Test Loss: 0.178645, Accuracy: 94.500000%
+Train Epoch: 87 Loss: 0.212441 accuracy: 0.925556
+Test Loss: 0.178504, Accuracy: 94.500000%
+Train Epoch: 88 Loss: 0.212358 accuracy: 0.925833
+Test Loss: 0.178366, Accuracy: 94.500000%
+Train Epoch: 89 Loss: 0.212277 accuracy: 0.925833
+Test Loss: 0.178238, Accuracy: 94.500000%
+Train Epoch: 90 Loss: 0.212198 accuracy: 0.925833
+Test Loss: 0.178119, Accuracy: 94.500000%
+Train Epoch: 91 Loss: 0.212120 accuracy: 0.925833
+Test Loss: 0.177997, Accuracy: 94.500000%
+Train Epoch: 92 Loss: 0.212044 accuracy: 0.925833
+Test Loss: 0.177867, Accuracy: 94.500000%
+Train Epoch: 93 Loss: 0.211968 accuracy: 0.925833
+Test Loss: 0.177750, Accuracy: 94.500000%
+Train Epoch: 94 Loss: 0.211895 accuracy: 0.925833
+Test Loss: 0.177633, Accuracy: 94.500000%
+Train Epoch: 95 Loss: 0.211820 accuracy: 0.925833
+Test Loss: 0.177519, Accuracy: 94.500000%
+Train Epoch: 96 Loss: 0.211750 accuracy: 0.925833
+Test Loss: 0.177408, Accuracy: 94.500000%
+Train Epoch: 97 Loss: 0.211680 accuracy: 0.925833
+Test Loss: 0.177291, Accuracy: 94.500000%
+Train Epoch: 98 Loss: 0.211610 accuracy: 0.926111
+Test Loss: 0.177180, Accuracy: 94.500000%
+Train Epoch: 99 Loss: 0.211541 accuracy: 0.926111
+Test Loss: 0.177070, Accuracy: 94.500000%
+Train Epoch: 100 Loss: 0.211472 accuracy: 0.926111
+Test Loss: 0.176955, Accuracy: 94.500000%
+
+
+model2
+
+
+
+Train Epoch: 1 Loss: 1.459905 accuracy: 0.203056
+Test Loss: 1.383175, Accuracy: 19.500000%
+Train Epoch: 2 Loss: 1.343643 accuracy: 0.317778
+Test Loss: 1.273067, Accuracy: 43.000000%
+Train Epoch: 3 Loss: 1.242294 accuracy: 0.496389
+Test Loss: 1.176543, Accuracy: 79.500000%
+Train Epoch: 4 Loss: 1.152420 accuracy: 0.821944
+Test Loss: 1.090287, Accuracy: 87.250000%
+Train Epoch: 5 Loss: 1.071084 accuracy: 0.844167
+Test Loss: 1.011921, Accuracy: 87.000000%
+Train Epoch: 6 Loss: 0.996515 accuracy: 0.846389
+Test Loss: 0.940075, Accuracy: 85.500000%
+Train Epoch: 7 Loss: 0.927925 accuracy: 0.845833
+Test Loss: 0.874157, Accuracy: 85.500000%
+Train Epoch: 8 Loss: 0.865024 accuracy: 0.845833
+Test Loss: 0.814013, Accuracy: 85.750000%
+Train Epoch: 9 Loss: 0.807626 accuracy: 0.850278
+Test Loss: 0.759290, Accuracy: 86.500000%
+Train Epoch: 10 Loss: 0.755636 accuracy: 0.854722
+Test Loss: 0.709861, Accuracy: 87.000000%
+Train Epoch: 11 Loss: 0.708813 accuracy: 0.859167
+Test Loss: 0.665387, Accuracy: 87.000000%
+Train Epoch: 12 Loss: 0.666778 accuracy: 0.865000
+Test Loss: 0.625417, Accuracy: 88.000000%
+Train Epoch: 13 Loss: 0.629057 accuracy: 0.872222
+Test Loss: 0.589498, Accuracy: 88.750000%
+Train Epoch: 14 Loss: 0.595169 accuracy: 0.876111
+Test Loss: 0.557161, Accuracy: 89.000000%
+Train Epoch: 15 Loss: 0.564647 accuracy: 0.880000
+Test Loss: 0.527904, Accuracy: 89.250000%
+Train Epoch: 16 Loss: 0.537060 accuracy: 0.885278
+Test Loss: 0.501328, Accuracy: 89.500000%
+Train Epoch: 17 Loss: 0.512037 accuracy: 0.888889
+Test Loss: 0.477172, Accuracy: 90.500000%
+Train Epoch: 18 Loss: 0.489282 accuracy: 0.891389
+Test Loss: 0.455190, Accuracy: 91.500000%
+Train Epoch: 19 Loss: 0.468572 accuracy: 0.892222
+Test Loss: 0.435188, Accuracy: 91.750000%
+Train Epoch: 20 Loss: 0.449693 accuracy: 0.895278
+Test Loss: 0.416985, Accuracy: 92.000000%
+Train Epoch: 21 Loss: 0.432447 accuracy: 0.895556
+Test Loss: 0.400406, Accuracy: 92.000000%
+Train Epoch: 22 Loss: 0.416654 accuracy: 0.896111
+Test Loss: 0.385334, Accuracy: 92.250000%
+Train Epoch: 23 Loss: 0.402181 accuracy: 0.898611
+Test Loss: 0.371647, Accuracy: 92.250000%
+Train Epoch: 24 Loss: 0.388916 accuracy: 0.901111
+Test Loss: 0.359049, Accuracy: 92.000000%
+Train Epoch: 25 Loss: 0.376722 accuracy: 0.903056
+Test Loss: 0.347418, Accuracy: 92.250000%
+Train Epoch: 26 Loss: 0.365537 accuracy: 0.905833
+Test Loss: 0.336747, Accuracy: 92.500000%
+Train Epoch: 27 Loss: 0.355281 accuracy: 0.907500
+Test Loss: 0.326967, Accuracy: 92.500000%
+Train Epoch: 28 Loss: 0.345863 accuracy: 0.908333
+Test Loss: 0.317997, Accuracy: 92.750000%
+Train Epoch: 29 Loss: 0.337257 accuracy: 0.910000
+Test Loss: 0.309730, Accuracy: 93.000000%
+Train Epoch: 30 Loss: 0.329388 accuracy: 0.909722
+Test Loss: 0.302134, Accuracy: 93.750000%
+Train Epoch: 31 Loss: 0.322173 accuracy: 0.911389
+Test Loss: 0.295164, Accuracy: 93.750000%
+Train Epoch: 32 Loss: 0.315553 accuracy: 0.914167
+Test Loss: 0.288773, Accuracy: 94.000000%
+Train Epoch: 33 Loss: 0.309467 accuracy: 0.915000
+Test Loss: 0.282846, Accuracy: 94.000000%
+Train Epoch: 34 Loss: 0.303857 accuracy: 0.916111
+Test Loss: 0.277311, Accuracy: 94.250000%
+Train Epoch: 35 Loss: 0.298678 accuracy: 0.916667
+Test Loss: 0.272160, Accuracy: 94.000000%
+Train Epoch: 36 Loss: 0.293893 accuracy: 0.917222
+Test Loss: 0.267408, Accuracy: 94.000000%
+Train Epoch: 37 Loss: 0.289460 accuracy: 0.918889
+Test Loss: 0.263000, Accuracy: 94.000000%
+Train Epoch: 38 Loss: 0.285343 accuracy: 0.918611
+Test Loss: 0.258893, Accuracy: 94.000000%
+Train Epoch: 39 Loss: 0.281517 accuracy: 0.918889
+Test Loss: 0.255054, Accuracy: 94.000000%
+Train Epoch: 40 Loss: 0.277959 accuracy: 0.918889
+Test Loss: 0.251460, Accuracy: 94.000000%
+Train Epoch: 41 Loss: 0.274635 accuracy: 0.918889
+Test Loss: 0.248091, Accuracy: 94.000000%
+Train Epoch: 42 Loss: 0.271533 accuracy: 0.919444
+Test Loss: 0.244938, Accuracy: 94.000000%
+Train Epoch: 43 Loss: 0.268635 accuracy: 0.920278
+Test Loss: 0.241951, Accuracy: 94.000000%
+Train Epoch: 44 Loss: 0.265921 accuracy: 0.921389
+Test Loss: 0.239161, Accuracy: 94.000000%
+Train Epoch: 45 Loss: 0.263378 accuracy: 0.922222
+Test Loss: 0.236555, Accuracy: 94.000000%
+Train Epoch: 46 Loss: 0.260994 accuracy: 0.921944
+Test Loss: 0.234097, Accuracy: 94.000000%
+Train Epoch: 47 Loss: 0.258751 accuracy: 0.921944
+Test Loss: 0.231775, Accuracy: 94.250000%
+Train Epoch: 48 Loss: 0.256633 accuracy: 0.921667
+Test Loss: 0.229598, Accuracy: 94.250000%
+Train Epoch: 49 Loss: 0.254633 accuracy: 0.921944
+Test Loss: 0.227563, Accuracy: 94.500000%
+Train Epoch: 50 Loss: 0.252757 accuracy: 0.921944
+Test Loss: 0.225630, Accuracy: 94.500000%
+Train Epoch: 51 Loss: 0.250994 accuracy: 0.922500
+Test Loss: 0.223781, Accuracy: 94.500000%
+Train Epoch: 52 Loss: 0.249330 accuracy: 0.923056
+Test Loss: 0.222039, Accuracy: 94.500000%
+Train Epoch: 53 Loss: 0.247759 accuracy: 0.923611
+Test Loss: 0.220401, Accuracy: 94.500000%
+Train Epoch: 54 Loss: 0.246273 accuracy: 0.923889
+Test Loss: 0.218849, Accuracy: 94.500000%
+Train Epoch: 55 Loss: 0.244868 accuracy: 0.923889
+Test Loss: 0.217363, Accuracy: 94.500000%
+Train Epoch: 56 Loss: 0.243540 accuracy: 0.923889
+Test Loss: 0.215957, Accuracy: 94.500000%
+Train Epoch: 57 Loss: 0.242283 accuracy: 0.923889
+Test Loss: 0.214623, Accuracy: 94.500000%
+Train Epoch: 58 Loss: 0.241089 accuracy: 0.923611
+Test Loss: 0.213367, Accuracy: 94.500000%
+Train Epoch: 59 Loss: 0.239955 accuracy: 0.923056
+Test Loss: 0.212181, Accuracy: 94.500000%
+Train Epoch: 60 Loss: 0.238878 accuracy: 0.923056
+Test Loss: 0.211042, Accuracy: 94.500000%
+Train Epoch: 61 Loss: 0.237857 accuracy: 0.922778
+Test Loss: 0.209950, Accuracy: 94.750000%
+Train Epoch: 62 Loss: 0.236885 accuracy: 0.922778
+Test Loss: 0.208910, Accuracy: 94.500000%
+Train Epoch: 63 Loss: 0.235962 accuracy: 0.922500
+Test Loss: 0.207906, Accuracy: 94.750000%
+Train Epoch: 64 Loss: 0.235082 accuracy: 0.923056
+Test Loss: 0.206944, Accuracy: 94.750000%
+Train Epoch: 65 Loss: 0.234245 accuracy: 0.923056
+Test Loss: 0.206032, Accuracy: 94.750000%
+Train Epoch: 66 Loss: 0.233445 accuracy: 0.923056
+Test Loss: 0.205175, Accuracy: 94.750000%
+Train Epoch: 67 Loss: 0.232685 accuracy: 0.923056
+Test Loss: 0.204360, Accuracy: 94.750000%
+Train Epoch: 68 Loss: 0.231963 accuracy: 0.923056
+Test Loss: 0.203551, Accuracy: 94.750000%
+Train Epoch: 69 Loss: 0.231276 accuracy: 0.923056
+Test Loss: 0.202765, Accuracy: 94.500000%
+Train Epoch: 70 Loss: 0.230621 accuracy: 0.923889
+Test Loss: 0.202020, Accuracy: 94.500000%
+Train Epoch: 71 Loss: 0.229996 accuracy: 0.923889
+Test Loss: 0.201304, Accuracy: 94.500000%
+Train Epoch: 72 Loss: 0.229398 accuracy: 0.924167
+Test Loss: 0.200631, Accuracy: 94.500000%
+Train Epoch: 73 Loss: 0.228829 accuracy: 0.923889
+Test Loss: 0.199978, Accuracy: 94.500000%
+Train Epoch: 74 Loss: 0.228283 accuracy: 0.923889
+Test Loss: 0.199335, Accuracy: 94.500000%
+Train Epoch: 75 Loss: 0.227761 accuracy: 0.924167
+Test Loss: 0.198724, Accuracy: 94.500000%
+Train Epoch: 76 Loss: 0.227260 accuracy: 0.924167
+Test Loss: 0.198149, Accuracy: 94.500000%
+Train Epoch: 77 Loss: 0.226782 accuracy: 0.923889
+Test Loss: 0.197607, Accuracy: 94.500000%
+Train Epoch: 78 Loss: 0.226326 accuracy: 0.924167
+Test Loss: 0.197079, Accuracy: 94.500000%
+Train Epoch: 79 Loss: 0.225888 accuracy: 0.924444
+Test Loss: 0.196569, Accuracy: 94.500000%
+Train Epoch: 80 Loss: 0.225467 accuracy: 0.924444
+Test Loss: 0.196083, Accuracy: 94.750000%
+Train Epoch: 81 Loss: 0.225065 accuracy: 0.925000
+Test Loss: 0.195626, Accuracy: 94.750000%
+Train Epoch: 82 Loss: 0.224679 accuracy: 0.925000
+Test Loss: 0.195181, Accuracy: 94.750000%
+Train Epoch: 83 Loss: 0.224309 accuracy: 0.924722
+Test Loss: 0.194750, Accuracy: 94.750000%
+Train Epoch: 84 Loss: 0.223954 accuracy: 0.924722
+Test Loss: 0.194340, Accuracy: 94.750000%
+Train Epoch: 85 Loss: 0.223613 accuracy: 0.925000
+Test Loss: 0.193951, Accuracy: 94.750000%
+Train Epoch: 86 Loss: 0.223282 accuracy: 0.925000
+Test Loss: 0.193576, Accuracy: 94.750000%
+Train Epoch: 87 Loss: 0.222963 accuracy: 0.925278
+Test Loss: 0.193202, Accuracy: 94.750000%
+Train Epoch: 88 Loss: 0.222655 accuracy: 0.925278
+Test Loss: 0.192842, Accuracy: 94.750000%
+Train Epoch: 89 Loss: 0.222361 accuracy: 0.925000
+Test Loss: 0.192501, Accuracy: 94.750000%
+Train Epoch: 90 Loss: 0.222080 accuracy: 0.925278
+Test Loss: 0.192181, Accuracy: 94.750000%
+Train Epoch: 91 Loss: 0.221809 accuracy: 0.925278
+Test Loss: 0.191865, Accuracy: 94.500000%
+Train Epoch: 92 Loss: 0.221548 accuracy: 0.925000
+Test Loss: 0.191558, Accuracy: 94.500000%
+Train Epoch: 93 Loss: 0.221295 accuracy: 0.924722
+Test Loss: 0.191265, Accuracy: 94.750000%
+Train Epoch: 94 Loss: 0.221052 accuracy: 0.924722
+Test Loss: 0.190993, Accuracy: 94.750000%
+Train Epoch: 95 Loss: 0.220820 accuracy: 0.924167
+Test Loss: 0.190733, Accuracy: 94.750000%
+Train Epoch: 96 Loss: 0.220598 accuracy: 0.924722
+Test Loss: 0.190481, Accuracy: 94.500000%
+Train Epoch: 97 Loss: 0.220384 accuracy: 0.924722
+Test Loss: 0.190237, Accuracy: 94.750000%
+Train Epoch: 98 Loss: 0.220178 accuracy: 0.924722
+Test Loss: 0.190004, Accuracy: 94.750000%
+Train Epoch: 99 Loss: 0.219980 accuracy: 0.925000
+Test Loss: 0.189777, Accuracy: 94.750000%
+Train Epoch: 100 Loss: 0.219787 accuracy: 0.924722
+Test Loss: 0.189548, Accuracy: 94.750000%
+
+model3
+
+
+Train Epoch: 1 Loss: 1.469129 accuracy: 0.233611
+Test Loss: 1.279540, Accuracy: 46.250000%
+Train Epoch: 2 Loss: 1.166393 accuracy: 0.653889
+Test Loss: 1.019861, Accuracy: 76.500000%
+Train Epoch: 3 Loss: 0.958541 accuracy: 0.798611
+Test Loss: 0.844540, Accuracy: 83.250000%
+Train Epoch: 4 Loss: 0.809531 accuracy: 0.845000
+Test Loss: 0.718258, Accuracy: 86.750000%
+Train Epoch: 5 Loss: 0.696804 accuracy: 0.878611
+Test Loss: 0.622646, Accuracy: 88.500000%
+Train Epoch: 6 Loss: 0.609816 accuracy: 0.894722
+Test Loss: 0.547819, Accuracy: 92.000000%
+Train Epoch: 7 Loss: 0.541499 accuracy: 0.905833
+Test Loss: 0.487474, Accuracy: 92.500000%
+Train Epoch: 8 Loss: 0.486679 accuracy: 0.908889
+Test Loss: 0.438049, Accuracy: 93.500000%
+Train Epoch: 9 Loss: 0.442119 accuracy: 0.910556
+Test Loss: 0.397534, Accuracy: 93.250000%
+Train Epoch: 10 Loss: 0.405745 accuracy: 0.914167
+Test Loss: 0.364405, Accuracy: 93.500000%
+Train Epoch: 11 Loss: 0.376154 accuracy: 0.915833
+Test Loss: 0.337438, Accuracy: 93.750000%
+Train Epoch: 12 Loss: 0.352212 accuracy: 0.916389
+Test Loss: 0.315476, Accuracy: 93.750000%
+Train Epoch: 13 Loss: 0.332813 accuracy: 0.917778
+Test Loss: 0.297660, Accuracy: 94.250000%
+Train Epoch: 14 Loss: 0.316997 accuracy: 0.918056
+Test Loss: 0.283063, Accuracy: 94.750000%
+Train Epoch: 15 Loss: 0.303987 accuracy: 0.917778
+Test Loss: 0.270890, Accuracy: 95.000000%
+Train Epoch: 16 Loss: 0.293122 accuracy: 0.918889
+Test Loss: 0.260627, Accuracy: 95.000000%
+Train Epoch: 17 Loss: 0.283922 accuracy: 0.919444
+Test Loss: 0.251947, Accuracy: 95.000000%
+Train Epoch: 18 Loss: 0.276097 accuracy: 0.919167
+Test Loss: 0.244520, Accuracy: 95.000000%
+Train Epoch: 19 Loss: 0.269399 accuracy: 0.919722
+Test Loss: 0.238111, Accuracy: 95.000000%
+Train Epoch: 20 Loss: 0.263661 accuracy: 0.920556
+Test Loss: 0.232599, Accuracy: 95.000000%
+Train Epoch: 21 Loss: 0.258746 accuracy: 0.921389
+Test Loss: 0.227810, Accuracy: 95.000000%
+Train Epoch: 22 Loss: 0.254507 accuracy: 0.921111
+Test Loss: 0.223635, Accuracy: 95.000000%
+Train Epoch: 23 Loss: 0.250822 accuracy: 0.921111
+Test Loss: 0.219973, Accuracy: 95.000000%
+Train Epoch: 24 Loss: 0.247575 accuracy: 0.922222
+Test Loss: 0.216728, Accuracy: 95.000000%
+Train Epoch: 25 Loss: 0.244681 accuracy: 0.921667
+Test Loss: 0.213825, Accuracy: 95.000000%
+Train Epoch: 26 Loss: 0.242084 accuracy: 0.923056
+Test Loss: 0.211190, Accuracy: 95.000000%
+Train Epoch: 27 Loss: 0.239733 accuracy: 0.922778
+Test Loss: 0.208832, Accuracy: 95.000000%
+Train Epoch: 28 Loss: 0.237612 accuracy: 0.923056
+Test Loss: 0.206717, Accuracy: 94.750000%
+Train Epoch: 29 Loss: 0.235682 accuracy: 0.923889
+Test Loss: 0.204775, Accuracy: 94.750000%
+Train Epoch: 30 Loss: 0.233935 accuracy: 0.924444
+Test Loss: 0.202960, Accuracy: 94.750000%
+Train Epoch: 31 Loss: 0.232345 accuracy: 0.924722
+Test Loss: 0.201319, Accuracy: 94.750000%
+Train Epoch: 32 Loss: 0.230899 accuracy: 0.924444
+Test Loss: 0.199840, Accuracy: 94.750000%
+Train Epoch: 33 Loss: 0.229597 accuracy: 0.924444
+Test Loss: 0.198485, Accuracy: 94.750000%
+Train Epoch: 34 Loss: 0.228415 accuracy: 0.923889
+Test Loss: 0.197264, Accuracy: 94.750000%
+Train Epoch: 35 Loss: 0.227341 accuracy: 0.923889
+Test Loss: 0.196141, Accuracy: 94.750000%
+Train Epoch: 36 Loss: 0.226358 accuracy: 0.923889
+Test Loss: 0.195113, Accuracy: 94.750000%
+Train Epoch: 37 Loss: 0.225451 accuracy: 0.923611
+Test Loss: 0.194155, Accuracy: 94.750000%
+Train Epoch: 38 Loss: 0.224610 accuracy: 0.923611
+Test Loss: 0.193258, Accuracy: 94.750000%
+Train Epoch: 39 Loss: 0.223828 accuracy: 0.924167
+Test Loss: 0.192437, Accuracy: 94.750000%
+Train Epoch: 40 Loss: 0.223102 accuracy: 0.924444
+Test Loss: 0.191655, Accuracy: 94.750000%
+Train Epoch: 41 Loss: 0.222423 accuracy: 0.925000
+Test Loss: 0.190913, Accuracy: 94.750000%
+Train Epoch: 42 Loss: 0.221788 accuracy: 0.925000
+Test Loss: 0.190236, Accuracy: 94.750000%
+Train Epoch: 43 Loss: 0.221198 accuracy: 0.924722
+Test Loss: 0.189613, Accuracy: 94.500000%
+Train Epoch: 44 Loss: 0.220649 accuracy: 0.925278
+Test Loss: 0.189018, Accuracy: 94.500000%
+Train Epoch: 45 Loss: 0.220133 accuracy: 0.925278
+Test Loss: 0.188450, Accuracy: 94.500000%
+Train Epoch: 46 Loss: 0.219647 accuracy: 0.925000
+Test Loss: 0.187913, Accuracy: 94.500000%
+Train Epoch: 47 Loss: 0.219187 accuracy: 0.924722
+Test Loss: 0.187411, Accuracy: 94.500000%
+Train Epoch: 48 Loss: 0.218752 accuracy: 0.924722
+Test Loss: 0.186938, Accuracy: 94.500000%
+Train Epoch: 49 Loss: 0.218342 accuracy: 0.924722
+Test Loss: 0.186492, Accuracy: 94.500000%
+Train Epoch: 50 Loss: 0.217952 accuracy: 0.925278
+Test Loss: 0.186064, Accuracy: 94.500000%
+Train Epoch: 51 Loss: 0.217582 accuracy: 0.925278
+Test Loss: 0.185651, Accuracy: 94.500000%
+Train Epoch: 52 Loss: 0.217229 accuracy: 0.925556
+Test Loss: 0.185264, Accuracy: 94.500000%
+Train Epoch: 53 Loss: 0.216897 accuracy: 0.925556
+Test Loss: 0.184889, Accuracy: 94.500000%
+Train Epoch: 54 Loss: 0.216584 accuracy: 0.925278
+Test Loss: 0.184519, Accuracy: 94.500000%
+Train Epoch: 55 Loss: 0.216286 accuracy: 0.925556
+Test Loss: 0.184167, Accuracy: 94.500000%
+Train Epoch: 56 Loss: 0.216003 accuracy: 0.926389
+Test Loss: 0.183830, Accuracy: 94.500000%
+Train Epoch: 57 Loss: 0.215734 accuracy: 0.926389
+Test Loss: 0.183503, Accuracy: 94.500000%
+Train Epoch: 58 Loss: 0.215477 accuracy: 0.926389
+Test Loss: 0.183185, Accuracy: 94.500000%
+Train Epoch: 59 Loss: 0.215230 accuracy: 0.926389
+Test Loss: 0.182877, Accuracy: 94.500000%
+Train Epoch: 60 Loss: 0.214991 accuracy: 0.926389
+Test Loss: 0.182579, Accuracy: 94.500000%
+Train Epoch: 61 Loss: 0.214762 accuracy: 0.926111
+Test Loss: 0.182297, Accuracy: 94.500000%
+Train Epoch: 62 Loss: 0.214542 accuracy: 0.926389
+Test Loss: 0.182029, Accuracy: 94.500000%
+Train Epoch: 63 Loss: 0.214329 accuracy: 0.926389
+Test Loss: 0.181772, Accuracy: 94.500000%
+Train Epoch: 64 Loss: 0.214124 accuracy: 0.925833
+Test Loss: 0.181510, Accuracy: 94.500000%
+Train Epoch: 65 Loss: 0.213928 accuracy: 0.926111
+Test Loss: 0.181245, Accuracy: 94.500000%
+Train Epoch: 66 Loss: 0.213739 accuracy: 0.925833
+Test Loss: 0.180986, Accuracy: 94.500000%
+Train Epoch: 67 Loss: 0.213558 accuracy: 0.925556
+Test Loss: 0.180736, Accuracy: 94.500000%
+Train Epoch: 68 Loss: 0.213383 accuracy: 0.925556
+Test Loss: 0.180500, Accuracy: 94.500000%
+Train Epoch: 69 Loss: 0.213215 accuracy: 0.925556
+Test Loss: 0.180270, Accuracy: 94.500000%
+Train Epoch: 70 Loss: 0.213052 accuracy: 0.925556
+Test Loss: 0.180044, Accuracy: 94.500000%
+Train Epoch: 71 Loss: 0.212895 accuracy: 0.925278
+Test Loss: 0.179819, Accuracy: 94.500000%
+Train Epoch: 72 Loss: 0.212743 accuracy: 0.925278
+Test Loss: 0.179598, Accuracy: 94.500000%
+Train Epoch: 73 Loss: 0.212596 accuracy: 0.925278
+Test Loss: 0.179380, Accuracy: 94.500000%
+Train Epoch: 74 Loss: 0.212454 accuracy: 0.925556
+Test Loss: 0.179166, Accuracy: 94.500000%
+Train Epoch: 75 Loss: 0.212319 accuracy: 0.925556
+Test Loss: 0.178962, Accuracy: 94.500000%
+Train Epoch: 76 Loss: 0.212190 accuracy: 0.925556
+Test Loss: 0.178757, Accuracy: 94.500000%
+Train Epoch: 77 Loss: 0.212067 accuracy: 0.925556
+Test Loss: 0.178565, Accuracy: 94.500000%
+Train Epoch: 78 Loss: 0.211948 accuracy: 0.925556
+Test Loss: 0.178374, Accuracy: 94.500000%
+Train Epoch: 79 Loss: 0.211834 accuracy: 0.925833
+Test Loss: 0.178180, Accuracy: 94.500000%
+Train Epoch: 80 Loss: 0.211722 accuracy: 0.925833
+Test Loss: 0.177990, Accuracy: 94.500000%
+Train Epoch: 81 Loss: 0.211612 accuracy: 0.925833
+Test Loss: 0.177815, Accuracy: 94.500000%
+Train Epoch: 82 Loss: 0.211507 accuracy: 0.925833
+Test Loss: 0.177648, Accuracy: 94.500000%
+Train Epoch: 83 Loss: 0.211404 accuracy: 0.925833
+Test Loss: 0.177479, Accuracy: 94.500000%
+Train Epoch: 84 Loss: 0.211303 accuracy: 0.926111
+Test Loss: 0.177313, Accuracy: 94.500000%
+Train Epoch: 85 Loss: 0.211205 accuracy: 0.926111
+Test Loss: 0.177152, Accuracy: 94.500000%
+Train Epoch: 86 Loss: 0.211109 accuracy: 0.926111
+Test Loss: 0.177003, Accuracy: 94.500000%
+Train Epoch: 87 Loss: 0.211014 accuracy: 0.926111
+Test Loss: 0.176873, Accuracy: 94.500000%
+Train Epoch: 88 Loss: 0.210922 accuracy: 0.926111
+Test Loss: 0.176730, Accuracy: 94.500000%
+Train Epoch: 89 Loss: 0.210832 accuracy: 0.926111
+Test Loss: 0.176574, Accuracy: 94.500000%
+Train Epoch: 90 Loss: 0.210742 accuracy: 0.926111
+Test Loss: 0.176438, Accuracy: 94.500000%
+Train Epoch: 91 Loss: 0.210657 accuracy: 0.926111
+Test Loss: 0.176312, Accuracy: 94.500000%
+Train Epoch: 92 Loss: 0.210575 accuracy: 0.926111
+Test Loss: 0.176191, Accuracy: 94.500000%
+Train Epoch: 93 Loss: 0.210496 accuracy: 0.926111
+Test Loss: 0.176065, Accuracy: 94.500000%
+Train Epoch: 94 Loss: 0.210417 accuracy: 0.926111
+Test Loss: 0.175940, Accuracy: 94.500000%
+Train Epoch: 95 Loss: 0.210342 accuracy: 0.926111
+Test Loss: 0.175823, Accuracy: 94.500000%
+Train Epoch: 96 Loss: 0.210267 accuracy: 0.926111
+Test Loss: 0.175705, Accuracy: 94.500000%
+Train Epoch: 97 Loss: 0.210192 accuracy: 0.925556
+Test Loss: 0.175598, Accuracy: 94.500000%
+Train Epoch: 98 Loss: 0.210119 accuracy: 0.925556
+Test Loss: 0.175486, Accuracy: 94.500000%
+Train Epoch: 99 Loss: 0.210049 accuracy: 0.925556
+Test Loss: 0.175350, Accuracy: 94.500000%
+Train Epoch: 100 Loss: 0.209980 accuracy: 0.925556
+Test Loss: 0.175238, Accuracy: 94.500000%

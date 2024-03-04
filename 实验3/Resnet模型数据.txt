@@ -1,0 +1,401 @@
+
+Epoch 1/200, Training Loss: 0.358327, Accuracy: 0.886667
+                Test Loss: 0.278307, Accuracy: 0.902000
+Epoch 2/200, Training Loss: 0.269260, Accuracy: 0.899333
+                Test Loss: 0.270218, Accuracy: 0.910000
+Epoch 3/200, Training Loss: 0.238691, Accuracy: 0.913333
+                Test Loss: 0.266919, Accuracy: 0.920000
+Epoch 4/200, Training Loss: 0.245107, Accuracy: 0.910000
+                Test Loss: 0.271856, Accuracy: 0.916000
+Epoch 5/200, Training Loss: 0.233149, Accuracy: 0.918000
+                Test Loss: 0.246098, Accuracy: 0.922000
+Epoch 6/200, Training Loss: 0.211081, Accuracy: 0.921667
+                Test Loss: 0.260907, Accuracy: 0.896000
+Epoch 7/200, Training Loss: 0.209410, Accuracy: 0.928667
+                Test Loss: 0.232917, Accuracy: 0.922000
+Epoch 8/200, Training Loss: 0.188713, Accuracy: 0.932333
+                Test Loss: 0.216868, Accuracy: 0.928000
+Epoch 9/200, Training Loss: 0.199724, Accuracy: 0.925333
+                Test Loss: 0.227057, Accuracy: 0.920000
+Epoch 10/200, Training Loss: 0.189047, Accuracy: 0.928667
+                Test Loss: 0.280610, Accuracy: 0.880000
+Epoch 11/200, Training Loss: 0.180802, Accuracy: 0.936667
+                Test Loss: 0.210770, Accuracy: 0.922000
+Epoch 12/200, Training Loss: 0.186909, Accuracy: 0.933000
+                Test Loss: 0.198740, Accuracy: 0.936000
+Epoch 13/200, Training Loss: 0.150092, Accuracy: 0.939000
+                Test Loss: 0.200916, Accuracy: 0.934000
+Epoch 14/200, Training Loss: 0.177149, Accuracy: 0.936000
+                Test Loss: 0.188392, Accuracy: 0.936000
+Epoch 15/200, Training Loss: 0.178278, Accuracy: 0.934667
+                Test Loss: 0.187291, Accuracy: 0.934000
+Epoch 16/200, Training Loss: 0.166784, Accuracy: 0.942333
+                Test Loss: 0.171018, Accuracy: 0.942000
+Epoch 17/200, Training Loss: 0.172623, Accuracy: 0.934000
+                Test Loss: 0.172431, Accuracy: 0.934000
+Epoch 18/200, Training Loss: 0.149474, Accuracy: 0.945333
+                Test Loss: 0.151227, Accuracy: 0.948000
+Epoch 19/200, Training Loss: 0.147684, Accuracy: 0.945667
+                Test Loss: 0.171422, Accuracy: 0.942000
+Epoch 20/200, Training Loss: 0.143372, Accuracy: 0.947333
+                Test Loss: 0.157261, Accuracy: 0.936000
+Epoch 21/200, Training Loss: 0.147110, Accuracy: 0.945000
+                Test Loss: 0.145800, Accuracy: 0.938000
+Epoch 22/200, Training Loss: 0.159911, Accuracy: 0.943667
+                Test Loss: 0.202107, Accuracy: 0.940000
+Epoch 23/200, Training Loss: 0.146615, Accuracy: 0.949333
+                Test Loss: 0.150830, Accuracy: 0.942000
+Epoch 24/200, Training Loss: 0.162813, Accuracy: 0.942000
+                Test Loss: 0.202155, Accuracy: 0.930000
+Epoch 25/200, Training Loss: 0.128494, Accuracy: 0.952667
+                Test Loss: 0.157182, Accuracy: 0.942000
+Epoch 26/200, Training Loss: 0.146653, Accuracy: 0.945667
+                Test Loss: 0.130462, Accuracy: 0.952000
+Epoch 27/200, Training Loss: 0.126698, Accuracy: 0.953333
+                Test Loss: 0.145909, Accuracy: 0.936000
+Epoch 28/200, Training Loss: 0.139228, Accuracy: 0.946333
+                Test Loss: 0.155817, Accuracy: 0.938000
+Epoch 29/200, Training Loss: 0.123471, Accuracy: 0.955333
+                Test Loss: 0.142914, Accuracy: 0.956000
+Epoch 30/200, Training Loss: 0.117882, Accuracy: 0.956000
+                Test Loss: 0.140975, Accuracy: 0.940000
+Epoch 31/200, Training Loss: 0.125726, Accuracy: 0.954000
+                Test Loss: 0.129597, Accuracy: 0.960000
+Epoch 32/200, Training Loss: 0.125828, Accuracy: 0.949333
+                Test Loss: 0.136969, Accuracy: 0.958000
+Epoch 33/200, Training Loss: 0.113037, Accuracy: 0.958000
+                Test Loss: 0.113381, Accuracy: 0.960000
+Epoch 34/200, Training Loss: 0.118991, Accuracy: 0.953333
+                Test Loss: 0.105796, Accuracy: 0.962000
+Epoch 35/200, Training Loss: 0.114276, Accuracy: 0.956333
+                Test Loss: 0.105205, Accuracy: 0.968000
+Epoch 36/200, Training Loss: 0.116332, Accuracy: 0.958667
+                Test Loss: 0.120488, Accuracy: 0.954000
+Epoch 37/200, Training Loss: 0.122118, Accuracy: 0.956333
+                Test Loss: 0.128694, Accuracy: 0.954000
+Epoch 38/200, Training Loss: 0.110305, Accuracy: 0.958667
+                Test Loss: 0.152975, Accuracy: 0.932000
+Epoch 39/200, Training Loss: 0.092972, Accuracy: 0.964333
+                Test Loss: 0.127576, Accuracy: 0.954000
+Epoch 40/200, Training Loss: 0.107785, Accuracy: 0.959667
+                Test Loss: 0.146853, Accuracy: 0.934000
+Epoch 41/200, Training Loss: 0.096877, Accuracy: 0.963667
+                Test Loss: 0.133070, Accuracy: 0.958000
+Epoch 42/200, Training Loss: 0.094132, Accuracy: 0.968000
+                Test Loss: 0.132428, Accuracy: 0.948000
+Epoch 43/200, Training Loss: 0.098817, Accuracy: 0.960000
+                Test Loss: 0.130659, Accuracy: 0.954000
+Epoch 44/200, Training Loss: 0.089253, Accuracy: 0.966000
+                Test Loss: 0.139303, Accuracy: 0.950000
+Epoch 45/200, Training Loss: 0.103789, Accuracy: 0.959000
+                Test Loss: 0.112535, Accuracy: 0.960000
+Epoch 46/200, Training Loss: 0.095442, Accuracy: 0.963000
+                Test Loss: 0.103154, Accuracy: 0.962000
+Epoch 47/200, Training Loss: 0.089741, Accuracy: 0.966667
+                Test Loss: 0.106419, Accuracy: 0.956000
+Epoch 48/200, Training Loss: 0.098244, Accuracy: 0.965333
+                Test Loss: 0.115935, Accuracy: 0.958000
+Epoch 49/200, Training Loss: 0.086689, Accuracy: 0.968667
+                Test Loss: 0.096711, Accuracy: 0.964000
+Epoch 50/200, Training Loss: 0.093815, Accuracy: 0.962667
+                Test Loss: 0.092131, Accuracy: 0.962000
+Epoch 51/200, Training Loss: 0.100782, Accuracy: 0.963333
+                Test Loss: 0.089628, Accuracy: 0.958000
+Epoch 52/200, Training Loss: 0.087921, Accuracy: 0.965667
+                Test Loss: 0.113772, Accuracy: 0.964000
+Epoch 53/200, Training Loss: 0.096362, Accuracy: 0.962333
+                Test Loss: 0.089976, Accuracy: 0.974000
+Epoch 54/200, Training Loss: 0.084485, Accuracy: 0.965333
+                Test Loss: 0.088910, Accuracy: 0.972000
+Epoch 55/200, Training Loss: 0.098981, Accuracy: 0.960333
+                Test Loss: 0.106474, Accuracy: 0.968000
+Epoch 56/200, Training Loss: 0.092511, Accuracy: 0.960000
+                Test Loss: 0.101089, Accuracy: 0.968000
+Epoch 57/200, Training Loss: 0.084300, Accuracy: 0.966667
+                Test Loss: 0.089149, Accuracy: 0.968000
+Epoch 58/200, Training Loss: 0.082843, Accuracy: 0.968333
+                Test Loss: 0.086865, Accuracy: 0.970000
+Epoch 59/200, Training Loss: 0.092889, Accuracy: 0.967000
+                Test Loss: 0.125032, Accuracy: 0.968000
+Epoch 60/200, Training Loss: 0.087115, Accuracy: 0.968333
+                Test Loss: 0.116125, Accuracy: 0.962000
+Epoch 61/200, Training Loss: 0.081160, Accuracy: 0.972000
+                Test Loss: 0.075485, Accuracy: 0.974000
+Epoch 62/200, Training Loss: 0.072573, Accuracy: 0.972000
+                Test Loss: 0.078967, Accuracy: 0.968000
+Epoch 63/200, Training Loss: 0.086110, Accuracy: 0.970667
+                Test Loss: 0.095361, Accuracy: 0.958000
+Epoch 64/200, Training Loss: 0.095605, Accuracy: 0.964333
+                Test Loss: 0.086632, Accuracy: 0.968000
+Epoch 65/200, Training Loss: 0.079274, Accuracy: 0.970333
+                Test Loss: 0.095609, Accuracy: 0.968000
+Epoch 66/200, Training Loss: 0.079844, Accuracy: 0.971000
+                Test Loss: 0.097757, Accuracy: 0.964000
+Epoch 67/200, Training Loss: 0.084531, Accuracy: 0.970667
+                Test Loss: 0.076856, Accuracy: 0.976000
+Epoch 68/200, Training Loss: 0.088002, Accuracy: 0.967333
+                Test Loss: 0.085200, Accuracy: 0.970000
+Epoch 69/200, Training Loss: 0.088085, Accuracy: 0.968000
+                Test Loss: 0.089905, Accuracy: 0.970000
+Epoch 70/200, Training Loss: 0.090850, Accuracy: 0.969333
+                Test Loss: 0.077390, Accuracy: 0.972000
+Epoch 71/200, Training Loss: 0.085110, Accuracy: 0.967000
+                Test Loss: 0.077754, Accuracy: 0.976000
+Epoch 72/200, Training Loss: 0.074030, Accuracy: 0.973000
+                Test Loss: 0.073112, Accuracy: 0.976000
+Epoch 73/200, Training Loss: 0.082869, Accuracy: 0.968000
+                Test Loss: 0.079328, Accuracy: 0.974000
+Epoch 74/200, Training Loss: 0.070290, Accuracy: 0.974667
+                Test Loss: 0.087252, Accuracy: 0.962000
+Epoch 75/200, Training Loss: 0.080621, Accuracy: 0.967333
+                Test Loss: 0.061271, Accuracy: 0.978000
+Epoch 76/200, Training Loss: 0.072495, Accuracy: 0.974000
+                Test Loss: 0.079707, Accuracy: 0.980000
+Epoch 77/200, Training Loss: 0.076082, Accuracy: 0.971667
+                Test Loss: 0.077795, Accuracy: 0.972000
+Epoch 78/200, Training Loss: 0.070413, Accuracy: 0.974667
+                Test Loss: 0.072014, Accuracy: 0.976000
+Epoch 79/200, Training Loss: 0.077946, Accuracy: 0.972000
+                Test Loss: 0.080814, Accuracy: 0.974000
+Epoch 80/200, Training Loss: 0.080047, Accuracy: 0.967333
+                Test Loss: 0.075644, Accuracy: 0.976000
+Epoch 81/200, Training Loss: 0.082486, Accuracy: 0.970333
+                Test Loss: 0.076390, Accuracy: 0.972000
+Epoch 82/200, Training Loss: 0.081775, Accuracy: 0.969667
+                Test Loss: 0.092771, Accuracy: 0.972000
+Epoch 83/200, Training Loss: 0.078724, Accuracy: 0.973333
+                Test Loss: 0.071019, Accuracy: 0.970000
+Epoch 84/200, Training Loss: 0.068479, Accuracy: 0.975000
+                Test Loss: 0.074334, Accuracy: 0.972000
+Epoch 85/200, Training Loss: 0.064490, Accuracy: 0.977000
+                Test Loss: 0.073582, Accuracy: 0.972000
+Epoch 86/200, Training Loss: 0.064117, Accuracy: 0.974000
+                Test Loss: 0.082529, Accuracy: 0.978000
+Epoch 87/200, Training Loss: 0.069984, Accuracy: 0.975333
+                Test Loss: 0.064285, Accuracy: 0.976000
+Epoch 88/200, Training Loss: 0.071481, Accuracy: 0.974000
+                Test Loss: 0.075691, Accuracy: 0.976000
+Epoch 89/200, Training Loss: 0.079699, Accuracy: 0.974000
+                Test Loss: 0.058654, Accuracy: 0.978000
+Epoch 90/200, Training Loss: 0.079182, Accuracy: 0.972000
+                Test Loss: 0.067551, Accuracy: 0.980000
+Epoch 91/200, Training Loss: 0.076124, Accuracy: 0.970333
+                Test Loss: 0.068220, Accuracy: 0.972000
+Epoch 92/200, Training Loss: 0.077363, Accuracy: 0.975333
+                Test Loss: 0.067445, Accuracy: 0.966000
+Epoch 93/200, Training Loss: 0.066899, Accuracy: 0.974000
+                Test Loss: 0.070649, Accuracy: 0.978000
+Epoch 94/200, Training Loss: 0.071290, Accuracy: 0.975000
+                Test Loss: 0.068952, Accuracy: 0.976000
+Epoch 95/200, Training Loss: 0.079445, Accuracy: 0.973333
+                Test Loss: 0.086888, Accuracy: 0.976000
+Epoch 96/200, Training Loss: 0.061035, Accuracy: 0.976667
+                Test Loss: 0.078282, Accuracy: 0.974000
+Epoch 97/200, Training Loss: 0.064488, Accuracy: 0.976333
+                Test Loss: 0.058958, Accuracy: 0.974000
+Epoch 98/200, Training Loss: 0.063182, Accuracy: 0.977333
+                Test Loss: 0.054331, Accuracy: 0.976000
+Epoch 99/200, Training Loss: 0.063684, Accuracy: 0.976000
+                Test Loss: 0.064019, Accuracy: 0.978000
+Epoch 100/200, Training Loss: 0.065674, Accuracy: 0.975667
+                Test Loss: 0.057610, Accuracy: 0.978000
+Epoch 101/200, Training Loss: 0.065759, Accuracy: 0.978000
+                Test Loss: 0.057650, Accuracy: 0.978000
+Epoch 102/200, Training Loss: 0.074752, Accuracy: 0.973000
+                Test Loss: 0.063670, Accuracy: 0.978000
+Epoch 103/200, Training Loss: 0.058062, Accuracy: 0.977000
+                Test Loss: 0.062894, Accuracy: 0.982000
+Epoch 104/200, Training Loss: 0.070023, Accuracy: 0.974000
+                Test Loss: 0.058056, Accuracy: 0.982000
+Epoch 105/200, Training Loss: 0.057410, Accuracy: 0.978333
+                Test Loss: 0.046612, Accuracy: 0.986000
+Epoch 106/200, Training Loss: 0.057869, Accuracy: 0.981000
+                Test Loss: 0.063351, Accuracy: 0.978000
+Epoch 107/200, Training Loss: 0.054566, Accuracy: 0.981000
+                Test Loss: 0.065490, Accuracy: 0.978000
+Epoch 108/200, Training Loss: 0.063201, Accuracy: 0.976000
+                Test Loss: 0.068040, Accuracy: 0.982000
+Epoch 109/200, Training Loss: 0.065453, Accuracy: 0.975667
+                Test Loss: 0.055578, Accuracy: 0.984000
+Epoch 110/200, Training Loss: 0.064451, Accuracy: 0.977667
+                Test Loss: 0.051703, Accuracy: 0.982000
+Epoch 111/200, Training Loss: 0.064843, Accuracy: 0.975333
+                Test Loss: 0.057110, Accuracy: 0.978000
+Epoch 112/200, Training Loss: 0.063787, Accuracy: 0.978333
+                Test Loss: 0.064078, Accuracy: 0.980000
+Epoch 113/200, Training Loss: 0.066438, Accuracy: 0.975000
+                Test Loss: 0.079605, Accuracy: 0.976000
+Epoch 114/200, Training Loss: 0.064212, Accuracy: 0.976333
+                Test Loss: 0.050084, Accuracy: 0.982000
+Epoch 115/200, Training Loss: 0.042690, Accuracy: 0.983667
+                Test Loss: 0.055961, Accuracy: 0.976000
+Epoch 116/200, Training Loss: 0.059611, Accuracy: 0.980000
+                Test Loss: 0.064772, Accuracy: 0.978000
+Epoch 117/200, Training Loss: 0.060123, Accuracy: 0.980333
+                Test Loss: 0.061116, Accuracy: 0.978000
+Epoch 118/200, Training Loss: 0.062599, Accuracy: 0.978333
+                Test Loss: 0.040123, Accuracy: 0.986000
+Epoch 119/200, Training Loss: 0.061966, Accuracy: 0.977333
+                Test Loss: 0.051194, Accuracy: 0.982000
+Epoch 120/200, Training Loss: 0.056851, Accuracy: 0.978667
+                Test Loss: 0.070117, Accuracy: 0.974000
+Epoch 121/200, Training Loss: 0.056014, Accuracy: 0.977000
+                Test Loss: 0.053300, Accuracy: 0.980000
+Epoch 122/200, Training Loss: 0.051710, Accuracy: 0.982333
+                Test Loss: 0.059896, Accuracy: 0.980000
+Epoch 123/200, Training Loss: 0.048218, Accuracy: 0.985000
+                Test Loss: 0.068844, Accuracy: 0.980000
+Epoch 124/200, Training Loss: 0.068055, Accuracy: 0.975333
+                Test Loss: 0.068771, Accuracy: 0.974000
+Epoch 125/200, Training Loss: 0.064470, Accuracy: 0.973333
+                Test Loss: 0.052277, Accuracy: 0.978000
+Epoch 126/200, Training Loss: 0.056645, Accuracy: 0.978667
+                Test Loss: 0.052326, Accuracy: 0.978000
+Epoch 127/200, Training Loss: 0.064263, Accuracy: 0.973667
+                Test Loss: 0.047162, Accuracy: 0.982000
+Epoch 128/200, Training Loss: 0.069932, Accuracy: 0.975667
+                Test Loss: 0.076313, Accuracy: 0.968000
+Epoch 129/200, Training Loss: 0.055863, Accuracy: 0.978667
+                Test Loss: 0.050183, Accuracy: 0.982000
+Epoch 130/200, Training Loss: 0.054066, Accuracy: 0.976667
+                Test Loss: 0.051562, Accuracy: 0.986000
+Epoch 131/200, Training Loss: 0.053210, Accuracy: 0.980333
+                Test Loss: 0.048194, Accuracy: 0.984000
+Epoch 132/200, Training Loss: 0.060210, Accuracy: 0.974333
+                Test Loss: 0.048248, Accuracy: 0.988000
+Epoch 133/200, Training Loss: 0.045742, Accuracy: 0.983000
+                Test Loss: 0.049685, Accuracy: 0.982000
+Epoch 134/200, Training Loss: 0.055058, Accuracy: 0.980000
+                Test Loss: 0.049475, Accuracy: 0.986000
+Epoch 135/200, Training Loss: 0.042532, Accuracy: 0.983667
+                Test Loss: 0.044424, Accuracy: 0.986000
+Epoch 136/200, Training Loss: 0.046798, Accuracy: 0.983333
+                Test Loss: 0.054014, Accuracy: 0.984000
+Epoch 137/200, Training Loss: 0.054290, Accuracy: 0.976000
+                Test Loss: 0.061219, Accuracy: 0.980000
+Epoch 138/200, Training Loss: 0.041794, Accuracy: 0.985333
+                Test Loss: 0.068582, Accuracy: 0.982000
+Epoch 139/200, Training Loss: 0.039875, Accuracy: 0.983000
+                Test Loss: 0.055060, Accuracy: 0.984000
+Epoch 140/200, Training Loss: 0.044687, Accuracy: 0.983000
+                Test Loss: 0.073080, Accuracy: 0.974000
+Epoch 141/200, Training Loss: 0.065437, Accuracy: 0.976000
+                Test Loss: 0.055985, Accuracy: 0.984000
+Epoch 142/200, Training Loss: 0.061124, Accuracy: 0.978000
+                Test Loss: 0.049568, Accuracy: 0.986000
+Epoch 143/200, Training Loss: 0.054080, Accuracy: 0.981000
+                Test Loss: 0.082466, Accuracy: 0.970000
+Epoch 144/200, Training Loss: 0.058327, Accuracy: 0.979667
+                Test Loss: 0.059100, Accuracy: 0.982000
+Epoch 145/200, Training Loss: 0.051553, Accuracy: 0.980000
+                Test Loss: 0.078473, Accuracy: 0.976000
+Epoch 146/200, Training Loss: 0.055800, Accuracy: 0.979333
+                Test Loss: 0.067215, Accuracy: 0.980000
+Epoch 147/200, Training Loss: 0.054421, Accuracy: 0.980667
+                Test Loss: 0.043453, Accuracy: 0.984000
+Epoch 148/200, Training Loss: 0.051779, Accuracy: 0.982000
+                Test Loss: 0.049943, Accuracy: 0.986000
+Epoch 149/200, Training Loss: 0.057277, Accuracy: 0.979000
+                Test Loss: 0.088994, Accuracy: 0.978000
+Epoch 150/200, Training Loss: 0.050323, Accuracy: 0.980333
+                Test Loss: 0.061415, Accuracy: 0.972000
+Epoch 151/200, Training Loss: 0.039784, Accuracy: 0.985667
+                Test Loss: 0.042782, Accuracy: 0.992000
+Epoch 152/200, Training Loss: 0.060250, Accuracy: 0.977333
+                Test Loss: 0.058187, Accuracy: 0.972000
+Epoch 153/200, Training Loss: 0.044686, Accuracy: 0.985667
+                Test Loss: 0.063891, Accuracy: 0.984000
+Epoch 154/200, Training Loss: 0.044889, Accuracy: 0.983333
+                Test Loss: 0.050919, Accuracy: 0.982000
+Epoch 155/200, Training Loss: 0.039836, Accuracy: 0.984333
+                Test Loss: 0.048367, Accuracy: 0.988000
+Epoch 156/200, Training Loss: 0.045528, Accuracy: 0.981667
+                Test Loss: 0.042398, Accuracy: 0.992000
+Epoch 157/200, Training Loss: 0.042090, Accuracy: 0.985333
+                Test Loss: 0.035210, Accuracy: 0.988000
+Epoch 158/200, Training Loss: 0.045160, Accuracy: 0.984333
+                Test Loss: 0.065208, Accuracy: 0.982000
+Epoch 159/200, Training Loss: 0.045358, Accuracy: 0.983333
+                Test Loss: 0.053914, Accuracy: 0.980000
+Epoch 160/200, Training Loss: 0.046112, Accuracy: 0.981000
+                Test Loss: 0.062543, Accuracy: 0.982000
+Epoch 161/200, Training Loss: 0.044818, Accuracy: 0.982333
+                Test Loss: 0.051318, Accuracy: 0.978000
+Epoch 162/200, Training Loss: 0.046946, Accuracy: 0.983000
+                Test Loss: 0.052254, Accuracy: 0.984000
+Epoch 163/200, Training Loss: 0.040842, Accuracy: 0.985000
+                Test Loss: 0.104044, Accuracy: 0.982000
+Epoch 164/200, Training Loss: 0.052308, Accuracy: 0.981333
+                Test Loss: 0.054437, Accuracy: 0.978000
+Epoch 165/200, Training Loss: 0.040019, Accuracy: 0.985000
+                Test Loss: 0.055946, Accuracy: 0.980000
+Epoch 166/200, Training Loss: 0.052451, Accuracy: 0.981000
+                Test Loss: 0.046220, Accuracy: 0.982000
+Epoch 167/200, Training Loss: 0.047939, Accuracy: 0.979000
+                Test Loss: 0.060705, Accuracy: 0.978000
+Epoch 168/200, Training Loss: 0.046604, Accuracy: 0.982333
+                Test Loss: 0.037188, Accuracy: 0.990000
+Epoch 169/200, Training Loss: 0.043759, Accuracy: 0.985333
+                Test Loss: 0.052285, Accuracy: 0.982000
+Epoch 170/200, Training Loss: 0.050691, Accuracy: 0.982667
+                Test Loss: 0.053593, Accuracy: 0.986000
+Epoch 171/200, Training Loss: 0.037858, Accuracy: 0.986667
+                Test Loss: 0.045825, Accuracy: 0.986000
+Epoch 172/200, Training Loss: 0.045374, Accuracy: 0.984000
+                Test Loss: 0.051743, Accuracy: 0.982000
+Epoch 173/200, Training Loss: 0.045625, Accuracy: 0.981333
+                Test Loss: 0.050124, Accuracy: 0.976000
+Epoch 174/200, Training Loss: 0.055519, Accuracy: 0.980333
+                Test Loss: 0.064848, Accuracy: 0.986000
+Epoch 175/200, Training Loss: 0.043935, Accuracy: 0.983333
+                Test Loss: 0.074069, Accuracy: 0.978000
+Epoch 176/200, Training Loss: 0.045483, Accuracy: 0.985333
+                Test Loss: 0.075112, Accuracy: 0.974000
+Epoch 177/200, Training Loss: 0.044508, Accuracy: 0.981333
+                Test Loss: 0.058577, Accuracy: 0.982000
+Epoch 178/200, Training Loss: 0.043334, Accuracy: 0.986000
+                Test Loss: 0.047177, Accuracy: 0.984000
+Epoch 179/200, Training Loss: 0.049121, Accuracy: 0.982667
+                Test Loss: 0.070896, Accuracy: 0.970000
+Epoch 180/200, Training Loss: 0.043705, Accuracy: 0.982667
+                Test Loss: 0.063711, Accuracy: 0.980000
+Epoch 181/200, Training Loss: 0.039968, Accuracy: 0.985667
+                Test Loss: 0.089553, Accuracy: 0.978000
+Epoch 182/200, Training Loss: 0.044805, Accuracy: 0.983333
+                Test Loss: 0.062428, Accuracy: 0.976000
+Epoch 183/200, Training Loss: 0.037903, Accuracy: 0.985333
+                Test Loss: 0.055124, Accuracy: 0.974000
+Epoch 184/200, Training Loss: 0.046777, Accuracy: 0.984667
+                Test Loss: 0.044630, Accuracy: 0.980000
+Epoch 185/200, Training Loss: 0.044095, Accuracy: 0.981333
+                Test Loss: 0.037440, Accuracy: 0.988000
+Epoch 186/200, Training Loss: 0.032161, Accuracy: 0.988000
+                Test Loss: 0.042892, Accuracy: 0.986000
+Epoch 187/200, Training Loss: 0.046842, Accuracy: 0.983000
+                Test Loss: 0.044081, Accuracy: 0.982000
+Epoch 188/200, Training Loss: 0.037828, Accuracy: 0.987667
+                Test Loss: 0.041722, Accuracy: 0.982000
+Epoch 189/200, Training Loss: 0.047189, Accuracy: 0.982000
+                Test Loss: 0.059853, Accuracy: 0.980000
+Epoch 190/200, Training Loss: 0.047712, Accuracy: 0.983667
+                Test Loss: 0.049417, Accuracy: 0.976000
+Epoch 191/200, Training Loss: 0.037274, Accuracy: 0.986667
+                Test Loss: 0.045687, Accuracy: 0.982000
+Epoch 192/200, Training Loss: 0.052196, Accuracy: 0.980667
+                Test Loss: 0.047230, Accuracy: 0.980000
+Epoch 193/200, Training Loss: 0.039272, Accuracy: 0.987667
+                Test Loss: 0.049437, Accuracy: 0.982000
+Epoch 194/200, Training Loss: 0.034121, Accuracy: 0.984333
+                Test Loss: 0.052918, Accuracy: 0.982000
+Epoch 195/200, Training Loss: 0.037830, Accuracy: 0.983333
+                Test Loss: 0.063504, Accuracy: 0.980000
+Epoch 196/200, Training Loss: 0.043616, Accuracy: 0.983333
+                Test Loss: 0.040475, Accuracy: 0.984000
+Epoch 197/200, Training Loss: 0.044932, Accuracy: 0.982667
+                Test Loss: 0.061715, Accuracy: 0.976000
+Epoch 198/200, Training Loss: 0.045588, Accuracy: 0.984667
+                Test Loss: 0.045310, Accuracy: 0.982000
+Epoch 199/200, Training Loss: 0.048379, Accuracy: 0.980333
+                Test Loss: 0.055971, Accuracy: 0.982000
+Epoch 200/200, Training Loss: 0.035036, Accuracy: 0.987000
+                Test Loss: 0.055120, Accuracy: 0.982000

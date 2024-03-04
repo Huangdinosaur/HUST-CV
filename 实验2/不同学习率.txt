@@ -1,0 +1,719 @@
+model1 
+
+
+
+Epoch: 1
+Train Loss: 0.0426, Accuracy: 98.70%
+    the number 0 accuracy is 0.9902
+    the number 1 accuracy is 0.9893
+    the number 2 accuracy is 0.9849
+    the number 3 accuracy is 0.9956
+    the number 4 accuracy is 0.9914
+    the number 5 accuracy is 0.9939
+    the number 6 accuracy is 0.9845
+    the number 7 accuracy is 0.9903
+    the number 8 accuracy is 0.9732
+    the number 9 accuracy is 0.9765
+Test Loss: 0.0474, Accuracy: 98.44%
+    the number 0 accuracy is 0.9908
+    the number 1 accuracy is 0.9912
+    the number 2 accuracy is 0.9864
+    the number 3 accuracy is 0.9960
+    the number 4 accuracy is 0.9908
+    the number 5 accuracy is 0.9933
+    the number 6 accuracy is 0.9760
+    the number 7 accuracy is 0.9835
+    the number 8 accuracy is 0.9620
+    the number 9 accuracy is 0.9732
+Epoch: 2
+Train Loss: 0.0262, Accuracy: 99.17%
+    the number 0 accuracy is 0.9905
+    the number 1 accuracy is 0.9889
+    the number 2 accuracy is 0.9950
+    the number 3 accuracy is 0.9966
+    the number 4 accuracy is 0.9884
+    the number 5 accuracy is 0.9910
+    the number 6 accuracy is 0.9922
+    the number 7 accuracy is 0.9955
+    the number 8 accuracy is 0.9961
+    the number 9 accuracy is 0.9829
+Test Loss: 0.0321, Accuracy: 98.91%
+    the number 0 accuracy is 0.9908
+    the number 1 accuracy is 0.9912
+    the number 2 accuracy is 0.9961
+    the number 3 accuracy is 0.9990
+    the number 4 accuracy is 0.9847
+    the number 5 accuracy is 0.9899
+    the number 6 accuracy is 0.9854
+    the number 7 accuracy is 0.9912
+    the number 8 accuracy is 0.9918
+    the number 9 accuracy is 0.9703
+Epoch: 3
+Train Loss: 0.0190, Accuracy: 99.39%
+    the number 0 accuracy is 0.9973
+    the number 1 accuracy is 0.9960
+    the number 2 accuracy is 0.9936
+    the number 3 accuracy is 0.9969
+    the number 4 accuracy is 0.9944
+    the number 5 accuracy is 0.9980
+    the number 6 accuracy is 0.9833
+    the number 7 accuracy is 0.9958
+    the number 8 accuracy is 0.9981
+    the number 9 accuracy is 0.9859
+Test Loss: 0.0332, Accuracy: 98.95%
+    the number 0 accuracy is 0.9969
+    the number 1 accuracy is 0.9956
+    the number 2 accuracy is 0.9913
+    the number 3 accuracy is 0.9970
+    the number 4 accuracy is 0.9939
+    the number 5 accuracy is 0.9944
+    the number 6 accuracy is 0.9666
+    the number 7 accuracy is 0.9912
+    the number 8 accuracy is 0.9959
+    the number 9 accuracy is 0.9713
+Epoch: 4
+Train Loss: 0.0163, Accuracy: 99.48%
+    the number 0 accuracy is 0.9998
+    the number 1 accuracy is 0.9979
+    the number 2 accuracy is 0.9928
+    the number 3 accuracy is 0.9956
+    the number 4 accuracy is 0.9955
+    the number 5 accuracy is 0.9924
+    the number 6 accuracy is 0.9981
+    the number 7 accuracy is 0.9963
+    the number 8 accuracy is 0.9909
+    the number 9 accuracy is 0.9882
+Test Loss: 0.0315, Accuracy: 99.01%
+    the number 0 accuracy is 0.9990
+    the number 1 accuracy is 0.9965
+    the number 2 accuracy is 0.9884
+    the number 3 accuracy is 0.9931
+    the number 4 accuracy is 0.9929
+    the number 5 accuracy is 0.9888
+    the number 6 accuracy is 0.9864
+    the number 7 accuracy is 0.9903
+    the number 8 accuracy is 0.9856
+    the number 9 accuracy is 0.9792
+Epoch: 5
+Train Loss: 0.0151, Accuracy: 99.50%
+    the number 0 accuracy is 1.0000
+    the number 1 accuracy is 0.9987
+    the number 2 accuracy is 0.9950
+    the number 3 accuracy is 0.9972
+    the number 4 accuracy is 0.9964
+    the number 5 accuracy is 0.9994
+    the number 6 accuracy is 0.9787
+    the number 7 accuracy is 0.9986
+    the number 8 accuracy is 0.9928
+    the number 9 accuracy is 0.9928
+Test Loss: 0.0368, Accuracy: 98.93%
+    the number 0 accuracy is 0.9980
+    the number 1 accuracy is 0.9982
+    the number 2 accuracy is 0.9903
+    the number 3 accuracy is 0.9960
+    the number 4 accuracy is 0.9929
+    the number 5 accuracy is 0.9933
+    the number 6 accuracy is 0.9582
+    the number 7 accuracy is 0.9912
+    the number 8 accuracy is 0.9897
+    the number 9 accuracy is 0.9832
+Epoch: 6
+Train Loss: 0.0117, Accuracy: 99.58%
+    the number 0 accuracy is 0.9993
+    the number 1 accuracy is 0.9982
+    the number 2 accuracy is 0.9997
+    the number 3 accuracy is 0.9958
+    the number 4 accuracy is 0.9967
+    the number 5 accuracy is 0.9930
+    the number 6 accuracy is 1.0000
+    the number 7 accuracy is 0.9869
+    the number 8 accuracy is 0.9947
+    the number 9 accuracy is 0.9939
+Test Loss: 0.0333, Accuracy: 98.98%
+    the number 0 accuracy is 0.9980
+    the number 1 accuracy is 0.9947
+    the number 2 accuracy is 0.9971
+    the number 3 accuracy is 0.9911
+    the number 4 accuracy is 0.9939
+    the number 5 accuracy is 0.9888
+    the number 6 accuracy is 0.9916
+    the number 7 accuracy is 0.9708
+    the number 8 accuracy is 0.9887
+    the number 9 accuracy is 0.9832
+Epoch: 7
+Train Loss: 0.0089, Accuracy: 99.68%
+    the number 0 accuracy is 0.9965
+    the number 1 accuracy is 0.9967
+    the number 2 accuracy is 0.9993
+    the number 3 accuracy is 0.9993
+    the number 4 accuracy is 0.9890
+    the number 5 accuracy is 0.9970
+    the number 6 accuracy is 0.9983
+    the number 7 accuracy is 0.9995
+    the number 8 accuracy is 0.9918
+    the number 9 accuracy is 1.0000
+Test Loss: 0.0305, Accuracy: 99.11%
+    the number 0 accuracy is 0.9969
+    the number 1 accuracy is 0.9965
+    the number 2 accuracy is 0.9971
+    the number 3 accuracy is 0.9960
+    the number 4 accuracy is 0.9786
+    the number 5 accuracy is 0.9865
+    the number 6 accuracy is 0.9875
+    the number 7 accuracy is 0.9912
+    the number 8 accuracy is 0.9846
+    the number 9 accuracy is 0.9941
+Epoch: 8
+Train Loss: 0.0076, Accuracy: 99.76%
+    the number 0 accuracy is 0.9995
+    the number 1 accuracy is 1.0000
+    the number 2 accuracy is 0.9971
+    the number 3 accuracy is 0.9976
+    the number 4 accuracy is 0.9998
+    the number 5 accuracy is 0.9954
+    the number 6 accuracy is 0.9992
+    the number 7 accuracy is 0.9970
+    the number 8 accuracy is 0.9993
+    the number 9 accuracy is 0.9908
+Test Loss: 0.0321, Accuracy: 99.05%
+    the number 0 accuracy is 0.9969
+    the number 1 accuracy is 0.9991
+    the number 2 accuracy is 0.9835
+    the number 3 accuracy is 0.9901
+    the number 4 accuracy is 0.9969
+    the number 5 accuracy is 0.9888
+    the number 6 accuracy is 0.9896
+    the number 7 accuracy is 0.9864
+    the number 8 accuracy is 0.9979
+    the number 9 accuracy is 0.9752
+Epoch: 9
+Train Loss: 0.0052, Accuracy: 99.84%
+    the number 0 accuracy is 0.9998
+    the number 1 accuracy is 0.9979
+    the number 2 accuracy is 0.9983
+    the number 3 accuracy is 0.9997
+    the number 4 accuracy is 0.9998
+    the number 5 accuracy is 0.9963
+    the number 6 accuracy is 0.9995
+    the number 7 accuracy is 0.9997
+    the number 8 accuracy is 0.9979
+    the number 9 accuracy is 0.9946
+Test Loss: 0.0348, Accuracy: 99.09%
+    the number 0 accuracy is 0.9980
+    the number 1 accuracy is 0.9974
+    the number 2 accuracy is 0.9913
+    the number 3 accuracy is 0.9970
+    the number 4 accuracy is 0.9990
+    the number 5 accuracy is 0.9865
+    the number 6 accuracy is 0.9896
+    the number 7 accuracy is 0.9922
+    the number 8 accuracy is 0.9856
+    the number 9 accuracy is 0.9713
+Epoch: 10
+Train Loss: 0.0086, Accuracy: 99.71%
+    the number 0 accuracy is 0.9998
+    the number 1 accuracy is 0.9956
+    the number 2 accuracy is 0.9936
+    the number 3 accuracy is 0.9984
+    the number 4 accuracy is 0.9997
+    the number 5 accuracy is 0.9952
+    the number 6 accuracy is 0.9998
+    the number 7 accuracy is 0.9995
+    the number 8 accuracy is 0.9998
+    the number 9 accuracy is 0.9894
+Test Loss: 0.0355, Accuracy: 99.09%
+    the number 0 accuracy is 0.9980
+    the number 1 accuracy is 0.9947
+    the number 2 accuracy is 0.9884
+    the number 3 accuracy is 0.9911
+    the number 4 accuracy is 0.9949
+    the number 5 accuracy is 0.9865
+    the number 6 accuracy is 0.9885
+    the number 7 accuracy is 0.9951
+    the number 8 accuracy is 0.9959
+    the number 9 accuracy is 0.9752
+
+
+
+
+
+
+
+
+model2 
+
+
+
+
+
+
+Epoch: 1
+Train Loss: 0.1623, Accuracy: 95.33%
+    the number 0 accuracy is 0.9728
+    the number 1 accuracy is 0.9773
+    the number 2 accuracy is 0.9159
+    the number 3 accuracy is 0.9555
+    the number 4 accuracy is 0.9745
+    the number 5 accuracy is 0.9441
+    the number 6 accuracy is 0.9910
+    the number 7 accuracy is 0.9832
+    the number 8 accuracy is 0.9226
+    the number 9 accuracy is 0.8907
+Test Loss: 0.1449, Accuracy: 95.64%
+    the number 0 accuracy is 0.9827
+    the number 1 accuracy is 0.9841
+    the number 2 accuracy is 0.9079
+    the number 3 accuracy is 0.9663
+    the number 4 accuracy is 0.9776
+    the number 5 accuracy is 0.9585
+    the number 6 accuracy is 0.9906
+    the number 7 accuracy is 0.9776
+    the number 8 accuracy is 0.9271
+    the number 9 accuracy is 0.8910
+Epoch: 2
+Train Loss: 0.1765, Accuracy: 94.83%
+    the number 0 accuracy is 0.9493
+    the number 1 accuracy is 0.9629
+    the number 2 accuracy is 0.9421
+    the number 3 accuracy is 0.9786
+    the number 4 accuracy is 0.9622
+    the number 5 accuracy is 0.9683
+    the number 6 accuracy is 0.9760
+    the number 7 accuracy is 0.9834
+    the number 8 accuracy is 0.9195
+    the number 9 accuracy is 0.8381
+Test Loss: 0.1711, Accuracy: 95.26%
+    the number 0 accuracy is 0.9561
+    the number 1 accuracy is 0.9753
+    the number 2 accuracy is 0.9409
+    the number 3 accuracy is 0.9822
+    the number 4 accuracy is 0.9664
+    the number 5 accuracy is 0.9753
+    the number 6 accuracy is 0.9718
+    the number 7 accuracy is 0.9835
+    the number 8 accuracy is 0.9353
+    the number 9 accuracy is 0.8394
+Epoch: 3
+Train Loss: 0.0859, Accuracy: 97.38%
+    the number 0 accuracy is 0.9737
+    the number 1 accuracy is 0.9812
+    the number 2 accuracy is 0.9817
+    the number 3 accuracy is 0.9711
+    the number 4 accuracy is 0.9771
+    the number 5 accuracy is 0.9825
+    the number 6 accuracy is 0.9870
+    the number 7 accuracy is 0.9676
+    the number 8 accuracy is 0.9528
+    the number 9 accuracy is 0.9635
+Test Loss: 0.0846, Accuracy: 97.40%
+    the number 0 accuracy is 0.9714
+    the number 1 accuracy is 0.9912
+    the number 2 accuracy is 0.9806
+    the number 3 accuracy is 0.9762
+    the number 4 accuracy is 0.9745
+    the number 5 accuracy is 0.9865
+    the number 6 accuracy is 0.9802
+    the number 7 accuracy is 0.9543
+    the number 8 accuracy is 0.9651
+    the number 9 accuracy is 0.9594
+Epoch: 4
+Train Loss: 0.0989, Accuracy: 97.04%
+    the number 0 accuracy is 0.9767
+    the number 1 accuracy is 0.9819
+    the number 2 accuracy is 0.9864
+    the number 3 accuracy is 0.9622
+    the number 4 accuracy is 0.9736
+    the number 5 accuracy is 0.9764
+    the number 6 accuracy is 0.9922
+    the number 7 accuracy is 0.9751
+    the number 8 accuracy is 0.9540
+    the number 9 accuracy is 0.9240
+Test Loss: 0.1050, Accuracy: 96.79%
+    the number 0 accuracy is 0.9755
+    the number 1 accuracy is 0.9894
+    the number 2 accuracy is 0.9855
+    the number 3 accuracy is 0.9653
+    the number 4 accuracy is 0.9705
+    the number 5 accuracy is 0.9821
+    the number 6 accuracy is 0.9854
+    the number 7 accuracy is 0.9621
+    the number 8 accuracy is 0.9446
+    the number 9 accuracy is 0.9177
+Epoch: 5
+Train Loss: 0.0887, Accuracy: 97.25%
+    the number 0 accuracy is 0.9934
+    the number 1 accuracy is 0.9868
+    the number 2 accuracy is 0.9832
+    the number 3 accuracy is 0.9839
+    the number 4 accuracy is 0.9752
+    the number 5 accuracy is 0.9199
+    the number 6 accuracy is 0.9850
+    the number 7 accuracy is 0.9475
+    the number 8 accuracy is 0.9868
+    the number 9 accuracy is 0.9578
+Test Loss: 0.0880, Accuracy: 97.17%
+    the number 0 accuracy is 0.9888
+    the number 1 accuracy is 0.9894
+    the number 2 accuracy is 0.9855
+    the number 3 accuracy is 0.9891
+    the number 4 accuracy is 0.9756
+    the number 5 accuracy is 0.9283
+    the number 6 accuracy is 0.9729
+    the number 7 accuracy is 0.9426
+    the number 8 accuracy is 0.9856
+    the number 9 accuracy is 0.9534
+Epoch: 6
+Train Loss: 0.0806, Accuracy: 97.64%
+    the number 0 accuracy is 0.9894
+    the number 1 accuracy is 0.9953
+    the number 2 accuracy is 0.9653
+    the number 3 accuracy is 0.9762
+    the number 4 accuracy is 0.9712
+    the number 5 accuracy is 0.9740
+    the number 6 accuracy is 0.9914
+    the number 7 accuracy is 0.9561
+    the number 8 accuracy is 0.9624
+    the number 9 accuracy is 0.9807
+Test Loss: 0.0805, Accuracy: 97.72%
+    the number 0 accuracy is 0.9878
+    the number 1 accuracy is 0.9974
+    the number 2 accuracy is 0.9661
+    the number 3 accuracy is 0.9832
+    the number 4 accuracy is 0.9776
+    the number 5 accuracy is 0.9854
+    the number 6 accuracy is 0.9823
+    the number 7 accuracy is 0.9494
+    the number 8 accuracy is 0.9641
+    the number 9 accuracy is 0.9782
+Epoch: 7
+Train Loss: 0.4149, Accuracy: 93.87%
+    the number 0 accuracy is 0.9411
+    the number 1 accuracy is 0.9614
+    the number 2 accuracy is 0.7972
+    the number 3 accuracy is 0.9184
+    the number 4 accuracy is 0.9599
+    the number 5 accuracy is 0.9699
+    the number 6 accuracy is 0.9750
+    the number 7 accuracy is 0.9468
+    the number 8 accuracy is 0.9253
+    the number 9 accuracy is 0.9921
+Test Loss: 0.3784, Accuracy: 94.01%
+    the number 0 accuracy is 0.9337
+    the number 1 accuracy is 0.9604
+    the number 2 accuracy is 0.8343
+    the number 3 accuracy is 0.9129
+    the number 4 accuracy is 0.9593
+    the number 5 accuracy is 0.9753
+    the number 6 accuracy is 0.9729
+    the number 7 accuracy is 0.9436
+    the number 8 accuracy is 0.9209
+    the number 9 accuracy is 0.9931
+Epoch: 8
+Train Loss: 0.1122, Accuracy: 96.59%
+    the number 0 accuracy is 0.9835
+    the number 1 accuracy is 0.9970
+    the number 2 accuracy is 0.9354
+    the number 3 accuracy is 0.9620
+    the number 4 accuracy is 0.9702
+    the number 5 accuracy is 0.9415
+    the number 6 accuracy is 0.9799
+    the number 7 accuracy is 0.9844
+    the number 8 accuracy is 0.9371
+    the number 9 accuracy is 0.9603
+Test Loss: 0.1205, Accuracy: 96.59%
+    the number 0 accuracy is 0.9796
+    the number 1 accuracy is 0.9956
+    the number 2 accuracy is 0.9419
+    the number 3 accuracy is 0.9653
+    the number 4 accuracy is 0.9623
+    the number 5 accuracy is 0.9552
+    the number 6 accuracy is 0.9729
+    the number 7 accuracy is 0.9747
+    the number 8 accuracy is 0.9528
+    the number 9 accuracy is 0.9544
+Epoch: 9
+Train Loss: 0.1155, Accuracy: 97.68%
+    the number 0 accuracy is 0.9914
+    the number 1 accuracy is 0.9972
+    the number 2 accuracy is 0.9671
+    the number 3 accuracy is 0.9754
+    the number 4 accuracy is 0.9635
+    the number 5 accuracy is 0.9899
+    the number 6 accuracy is 0.9899
+    the number 7 accuracy is 0.9845
+    the number 8 accuracy is 0.9333
+    the number 9 accuracy is 0.9729
+Test Loss: 0.1250, Accuracy: 97.59%
+    the number 0 accuracy is 0.9939
+    the number 1 accuracy is 0.9965
+    the number 2 accuracy is 0.9661
+    the number 3 accuracy is 0.9861
+    the number 4 accuracy is 0.9674
+    the number 5 accuracy is 0.9933
+    the number 6 accuracy is 0.9781
+    the number 7 accuracy is 0.9825
+    the number 8 accuracy is 0.9302
+    the number 9 accuracy is 0.9633
+Epoch: 10
+Train Loss: 0.0536, Accuracy: 98.28%
+    the number 0 accuracy is 0.9941
+    the number 1 accuracy is 0.9878
+    the number 2 accuracy is 0.9688
+    the number 3 accuracy is 0.9858
+    the number 4 accuracy is 0.9884
+    the number 5 accuracy is 0.9812
+    the number 6 accuracy is 0.9829
+    the number 7 accuracy is 0.9936
+    the number 8 accuracy is 0.9754
+    the number 9 accuracy is 0.9682
+Test Loss: 0.0555, Accuracy: 98.21%
+    the number 0 accuracy is 0.9918
+    the number 1 accuracy is 0.9903
+    the number 2 accuracy is 0.9709
+    the number 3 accuracy is 0.9911
+    the number 4 accuracy is 0.9888
+    the number 5 accuracy is 0.9843
+    the number 6 accuracy is 0.9739
+    the number 7 accuracy is 0.9883
+    the number 8 accuracy is 0.9661
+    the number 9 accuracy is 0.9742
+
+
+
+
+
+model3 
+
+
+
+Epoch: 1
+Train Loss: 26.4716, Accuracy: 13.83%
+    the number 0 accuracy is 0.1248
+    the number 1 accuracy is 0.0837
+    the number 2 accuracy is 0.1675
+    the number 3 accuracy is 0.0861
+    the number 4 accuracy is 0.0026
+    the number 5 accuracy is 0.0006
+    the number 6 accuracy is 0.7967
+    the number 7 accuracy is 0.0073
+    the number 8 accuracy is 0.0868
+    the number 9 accuracy is 0.0309
+Test Loss: 26.4825, Accuracy: 13.94%
+    the number 0 accuracy is 0.1122
+    the number 1 accuracy is 0.0881
+    the number 2 accuracy is 0.1764
+    the number 3 accuracy is 0.1109
+    the number 4 accuracy is 0.0000
+    the number 5 accuracy is 0.0011
+    the number 6 accuracy is 0.7891
+    the number 7 accuracy is 0.0107
+    the number 8 accuracy is 0.0955
+    the number 9 accuracy is 0.0287
+Epoch: 2
+Train Loss: 2.4254, Accuracy: 11.24%
+    the number 0 accuracy is 0.0000
+    the number 1 accuracy is 1.0000
+    the number 2 accuracy is 0.0000
+    the number 3 accuracy is 0.0000
+    the number 4 accuracy is 0.0000
+    the number 5 accuracy is 0.0000
+    the number 6 accuracy is 0.0000
+    the number 7 accuracy is 0.0000
+    the number 8 accuracy is 0.0000
+    the number 9 accuracy is 0.0000
+Test Loss: 2.4225, Accuracy: 11.35%
+    the number 0 accuracy is 0.0000
+    the number 1 accuracy is 1.0000
+    the number 2 accuracy is 0.0000
+    the number 3 accuracy is 0.0000
+    the number 4 accuracy is 0.0000
+    the number 5 accuracy is 0.0000
+    the number 6 accuracy is 0.0000
+    the number 7 accuracy is 0.0000
+    the number 8 accuracy is 0.0000
+    the number 9 accuracy is 0.0000
+Epoch: 3
+Train Loss: 2.4438, Accuracy: 9.86%
+    the number 0 accuracy is 0.0000
+    the number 1 accuracy is 0.0000
+    the number 2 accuracy is 0.0000
+    the number 3 accuracy is 0.0000
+    the number 4 accuracy is 0.0000
+    the number 5 accuracy is 0.0000
+    the number 6 accuracy is 1.0000
+    the number 7 accuracy is 0.0000
+    the number 8 accuracy is 0.0000
+    the number 9 accuracy is 0.0000
+Test Loss: 2.4451, Accuracy: 9.58%
+    the number 0 accuracy is 0.0000
+    the number 1 accuracy is 0.0000
+    the number 2 accuracy is 0.0000
+    the number 3 accuracy is 0.0000
+    the number 4 accuracy is 0.0000
+    the number 5 accuracy is 0.0000
+    the number 6 accuracy is 1.0000
+    the number 7 accuracy is 0.0000
+    the number 8 accuracy is 0.0000
+    the number 9 accuracy is 0.0000
+Epoch: 4
+Train Loss: 2.3760, Accuracy: 10.44%
+    the number 0 accuracy is 0.0000
+    the number 1 accuracy is 0.0000
+    the number 2 accuracy is 0.0000
+    the number 3 accuracy is 0.0000
+    the number 4 accuracy is 0.0000
+    the number 5 accuracy is 0.0000
+    the number 6 accuracy is 0.0000
+    the number 7 accuracy is 1.0000
+    the number 8 accuracy is 0.0000
+    the number 9 accuracy is 0.0000
+Test Loss: 2.3771, Accuracy: 10.28%
+    the number 0 accuracy is 0.0000
+    the number 1 accuracy is 0.0000
+    the number 2 accuracy is 0.0000
+    the number 3 accuracy is 0.0000
+    the number 4 accuracy is 0.0000
+    the number 5 accuracy is 0.0000
+    the number 6 accuracy is 0.0000
+    the number 7 accuracy is 1.0000
+    the number 8 accuracy is 0.0000
+    the number 9 accuracy is 0.0000
+Epoch: 5
+Train Loss: 2.3784, Accuracy: 9.86%
+    the number 0 accuracy is 0.0000
+    the number 1 accuracy is 0.0000
+    the number 2 accuracy is 0.0000
+    the number 3 accuracy is 0.0000
+    the number 4 accuracy is 0.0000
+    the number 5 accuracy is 0.0000
+    the number 6 accuracy is 1.0000
+    the number 7 accuracy is 0.0000
+    the number 8 accuracy is 0.0000
+    the number 9 accuracy is 0.0000
+Test Loss: 2.3816, Accuracy: 9.58%
+    the number 0 accuracy is 0.0000
+    the number 1 accuracy is 0.0000
+    the number 2 accuracy is 0.0000
+    the number 3 accuracy is 0.0000
+    the number 4 accuracy is 0.0000
+    the number 5 accuracy is 0.0000
+    the number 6 accuracy is 1.0000
+    the number 7 accuracy is 0.0000
+    the number 8 accuracy is 0.0000
+    the number 9 accuracy is 0.0000
+Epoch: 6
+Train Loss: 2.3209, Accuracy: 10.44%
+    the number 0 accuracy is 0.0000
+    the number 1 accuracy is 0.0000
+    the number 2 accuracy is 0.0000
+    the number 3 accuracy is 0.0000
+    the number 4 accuracy is 0.0000
+    the number 5 accuracy is 0.0000
+    the number 6 accuracy is 0.0000
+    the number 7 accuracy is 1.0000
+    the number 8 accuracy is 0.0000
+    the number 9 accuracy is 0.0000
+Test Loss: 2.3229, Accuracy: 10.28%
+    the number 0 accuracy is 0.0000
+    the number 1 accuracy is 0.0000
+    the number 2 accuracy is 0.0000
+    the number 3 accuracy is 0.0000
+    the number 4 accuracy is 0.0000
+    the number 5 accuracy is 0.0000
+    the number 6 accuracy is 0.0000
+    the number 7 accuracy is 1.0000
+    the number 8 accuracy is 0.0000
+    the number 9 accuracy is 0.0000
+Epoch: 7
+Train Loss: 2.3567, Accuracy: 11.24%
+    the number 0 accuracy is 0.0000
+    the number 1 accuracy is 1.0000
+    the number 2 accuracy is 0.0000
+    the number 3 accuracy is 0.0000
+    the number 4 accuracy is 0.0000
+    the number 5 accuracy is 0.0000
+    the number 6 accuracy is 0.0000
+    the number 7 accuracy is 0.0000
+    the number 8 accuracy is 0.0000
+    the number 9 accuracy is 0.0000
+Test Loss: 2.3570, Accuracy: 11.35%
+    the number 0 accuracy is 0.0000
+    the number 1 accuracy is 1.0000
+    the number 2 accuracy is 0.0000
+    the number 3 accuracy is 0.0000
+    the number 4 accuracy is 0.0000
+    the number 5 accuracy is 0.0000
+    the number 6 accuracy is 0.0000
+    the number 7 accuracy is 0.0000
+    the number 8 accuracy is 0.0000
+    the number 9 accuracy is 0.0000
+Epoch: 8
+Train Loss: 2.3573, Accuracy: 11.24%
+    the number 0 accuracy is 0.0000
+    the number 1 accuracy is 1.0000
+    the number 2 accuracy is 0.0000
+    the number 3 accuracy is 0.0000
+    the number 4 accuracy is 0.0000
+    the number 5 accuracy is 0.0000
+    the number 6 accuracy is 0.0000
+    the number 7 accuracy is 0.0000
+    the number 8 accuracy is 0.0000
+    the number 9 accuracy is 0.0000
+Test Loss: 2.3605, Accuracy: 11.35%
+    the number 0 accuracy is 0.0000
+    the number 1 accuracy is 1.0000
+    the number 2 accuracy is 0.0000
+    the number 3 accuracy is 0.0000
+    the number 4 accuracy is 0.0000
+    the number 5 accuracy is 0.0000
+    the number 6 accuracy is 0.0000
+    the number 7 accuracy is 0.0000
+    the number 8 accuracy is 0.0000
+    the number 9 accuracy is 0.0000
+Epoch: 9
+Train Loss: 2.3523, Accuracy: 10.22%
+    the number 0 accuracy is 0.0000
+    the number 1 accuracy is 0.0000
+    the number 2 accuracy is 0.0000
+    the number 3 accuracy is 1.0000
+    the number 4 accuracy is 0.0000
+    the number 5 accuracy is 0.0000
+    the number 6 accuracy is 0.0000
+    the number 7 accuracy is 0.0000
+    the number 8 accuracy is 0.0000
+    the number 9 accuracy is 0.0000
+Test Loss: 2.3536, Accuracy: 10.10%
+    the number 0 accuracy is 0.0000
+    the number 1 accuracy is 0.0000
+    the number 2 accuracy is 0.0000
+    the number 3 accuracy is 1.0000
+    the number 4 accuracy is 0.0000
+    the number 5 accuracy is 0.0000
+    the number 6 accuracy is 0.0000
+    the number 7 accuracy is 0.0000
+    the number 8 accuracy is 0.0000
+    the number 9 accuracy is 0.0000
+Epoch: 10
+Train Loss: 2.3358, Accuracy: 9.74%
+    the number 0 accuracy is 0.0000
+    the number 1 accuracy is 0.0000
+    the number 2 accuracy is 0.0000
+    the number 3 accuracy is 0.0000
+    the number 4 accuracy is 1.0000
+    the number 5 accuracy is 0.0000
+    the number 6 accuracy is 0.0000
+    the number 7 accuracy is 0.0000
+    the number 8 accuracy is 0.0000
+    the number 9 accuracy is 0.0000
+Test Loss: 2.3356, Accuracy: 9.82%
+    the number 0 accuracy is 0.0000
+    the number 1 accuracy is 0.0000
+    the number 2 accuracy is 0.0000
+    the number 3 accuracy is 0.0000
+    the number 4 accuracy is 1.0000
+    the number 5 accuracy is 0.0000
+    the number 6 accuracy is 0.0000
+    the number 7 accuracy is 0.0000
+    the number 8 accuracy is 0.0000
+    the number 9 accuracy is 0.0000
+
